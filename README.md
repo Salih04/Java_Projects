@@ -42,15 +42,15 @@ This class is a utility that demonstrates various mathematical operations using 
 2. **Compile** all `.java` files by running:
    
    javac *.java
-Run the desired program:
-
-For the ATM system:
+   
+## Run the desired program:
+### For the ATM system:
 java ATM_Proj
 
-For the Minefield game:
+### For the Minefield game:
 java MainMayin
 
-Features
+# Features
 ## ATM System:
 Simple user interface via the console.
 Supports balance inquiry, deposit, withdrawal, and exit functions.
